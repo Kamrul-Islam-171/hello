@@ -10,7 +10,7 @@ ItemHub is your one-stop destination for finding high-quality products at compet
 - **Categorization**:
   - Filter products by brand name.
   - Categorize by price range.
-  - Sort by category (mobile, tablet, watch).
+  - Sort by category .
 - **Sorting**:
   - Sort products by price (Low to High, High to Low).
   - Sort products by date (Newest first).
