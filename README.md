@@ -1,8 +1,8 @@
-# DiverseDeal
+# ItemHub
 
-[Live Website](https://your-live-site-link.com)
+[Live Website](https://login-reg-temp.web.app/)
 
-DiverseDeal is an e-commerce website focused on showcasing and selling mobile phones, tablets, and watches from various brands. The website allows users to search, categorize, and sort products, providing a seamless shopping experience.
+ItemHub is your one-stop destination for finding high-quality products at competitive prices. We strive to offer a wide range of items across multiple categories, ensuring that every customer finds exactly what they're looking for. Whether it's the latest tech gadgets, home essentials, or fashion trends, we have it all. Our easy-to-use platform makes shopping a seamless and enjoyable experience.
 
 ## Features
 
@@ -31,8 +31,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/tazim5032/diverse-deal
-   cd DiverseDeal
+
+   cd Item-hub-client
    ```
 
 2. **Backend Setup**:
